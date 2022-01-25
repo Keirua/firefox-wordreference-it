@@ -10,7 +10,7 @@
         ]
     },
     "icons": {
-      "32": "icons/WR52x32.png"
+      "64": "icons/wr-icon64.png"
     },
     "permissions": [
         "activeTab",
